@@ -1,0 +1,166 @@
+body {
+    font-family: Courier, monospace;
+    margin: 0%;
+    background-image: url(https://cdn.filestackcontent.com/crop=d:[0,348,2048,1024]/pjpg=q:90/compress/cJaYLo9CRgOVHqKjShAT);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    background: #6d6027;
+    background: -webkit-linear-gradient(to right, #6d6027, #d3cbb8);
+    background: linear-gradient(to right, #6d6027, #d3cbb8);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    color: black;
+    text-align: center;
+    padding: 4px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+/* Untuk gambar */
+#nicole {
+    display: block;
+    float: left;
+    margin-left: 460px;
+    margin-right: 40px;
+    border: 3px solid #dbc3af;
+    border-radius: 10 px;
+}
+
+/* Untuk list */
+.list {
+    outline-style: double;
+    padding : 20px;
+    margin: 20px auto;
+    margin-right: 420px;
+    width : 80%;
+    max-width: 400px;
+    background-color: #D8C196;
+    border-radius: 10px;
+}
+ 
+.list h2 {
+    font-size: 25px;
+    text-align: center;
+    background-color: #E3D6BE;
+}
+
+ul {
+    list-style: square;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Untuk Background */
+.background {
+    outline-style: double;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+    background-color: #D8C196;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.background h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+    background-color: #E3D6BE;
+}
+
+/* Untuk Critical */
+.critic {
+    outline-style: double;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+    background-color: #D8C196;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.critic h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+    background-color: #E3D6BE;
+}
+
+/* Untuk Tracklist */
+.tracklist {
+    outline-style: double;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+    background-color: #D8C196;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tracklist h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+    background-color: #E3D6BE;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+
+table thead {
+    background-color: #e0c9ae;
+    color: #fff;
+}
+
+table th, table td {
+    border: 1px solid #000000;
+    padding: 8px;
+}
+
+/* Untuk Footer */
+.footer {
+    background-color: #b8ab93;
+    padding: 10px;
+    text-align: center;
+  }
+
+/* Link belum dibuka */
+a:link {
+    color: #E5D4B7;
+  }
+  
+/* Link sudah dibuka */
+  a:visited {
+    color: #F1E4CD;
+  }
+  
+/* Warna jika mouse dilink */
+  a:hover {
+    color: #B5B3AF;
+  }
